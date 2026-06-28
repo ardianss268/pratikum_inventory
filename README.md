@@ -25,4 +25,8 @@ Menjadi Supplier terpercaya yang menyediakan produk berkualitas dengan harga ter
 <img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/ef14eaf2-22ba-4ca8-9bc6-1b32813d2193" />
 
 # User
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/18641697-79e9-4c0e-91a0-51cf0c188b69" />
+
 # Admin
+<img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/ebc09896-e615-40b3-afcb-996c6f5f5cd5" />
+
