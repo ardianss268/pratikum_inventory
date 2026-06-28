@@ -22,5 +22,7 @@ Menjadi Supplier terpercaya yang menyediakan produk berkualitas dengan harga ter
 6. Manajemen Vendor
 7. Distribusi Barang
 # Login
+<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/ef14eaf2-22ba-4ca8-9bc6-1b32813d2193" />
+
 # User
 # Admin
