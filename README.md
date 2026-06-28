@@ -1,1 +1,1 @@
-# pratikum_inventory
+# Praktikum_PT-TEPARUGUH
